@@ -1,0 +1,43 @@
+{
+  "header": {
+    "contacto": "Contacto"
+  },
+  "footer": {
+    "contacto": "Contacto",
+    "aviso-legal": "Avíso Legal",
+    "privacidad": "Política de Privacidad"
+  },
+  "cookies": {
+    "bar": {
+      "title": "Este sitio utiliza cookies",
+      "description": "Utilizamos cookies y tecnologías similares para ayudar a personalizar el contenido y ofrecer una mejor experiencia. Puede optar por personalizarlos haciendo clic en el botón personalizar."
+    },
+    "modal": {
+      "title": "Personalizar",
+      "description": "Utilizamos diferentes tipos de cookies para optimizar su experiencia en nuestro sitio web. Haga clic en las categorías a continuación para obtener más información sobre sus propósitos. Puede elegir los tipos de cookies que se permitirán y cambiar sus preferencias más adelante. Recuerde que deshabilitar las cookies puede afectar su experiencia.",
+      "privacy-policy": "Política de privacidad",
+      "cookies-policy": "Política de Cookies"
+    },
+    "necessary": {
+      "title": "Cookies estrictamente necesarias",
+      "description": "Estas cookies son esenciales para el correcto funcionamiento de mi sitio web. Sin estas cookies, el sitio web no funcionaría correctamente"
+    }
+  },
+  "contacto": {
+    "nombre": "Nombre",
+    "apellidos": "Apellidos",
+    "email": "Email",
+    "opcional": "Opcional",
+    "telefono": "Teléfono",
+    "mensaje": "Mensaje",
+    "privacidad": "He leído y acepto la",
+    "privacidad2": "Política de tratamiento de datos",
+    "contactar": "Contactar",
+    "success": "Gracias por comunicarte con nosotros. Te responderemos con la mayor brevedad posible.",
+    "error": "Lo sentimos, algo salio mal. Por favor inténtalo de nuevo mas tarde."
+  },
+  "extras": {
+    "exclusivo": "EXCLUSIVO SERVICIOS INTERURBANOS Y RESERVAS"
+  }
+}
+  

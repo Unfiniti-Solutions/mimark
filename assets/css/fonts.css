@@ -1,0 +1,47 @@
+/* Importación de fuentes locales */
+@font-face {
+  font-family: 'Against';
+  src: url('/fonts/against.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Autography';
+  src: url('/fonts/autography.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nexa';
+  src: url('/fonts/nexa.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Las fuentes se cargan automáticamente a través de @nuxt/fonts en nuxt.config.ts */
+
+html,
+body {
+  font-family: "Nexa", sans-serif;
+  overflow-x: hidden;
+  z-index: 0;
+}
+
+/* Títulos principales */
+.font-title {
+  font-family: 'Against', sans-serif;
+}
+
+/* Textos regulares */
+.font-text {
+  font-family: 'Nexa', sans-serif;
+}
+
+/* Clases utilitarias para display */
+.text-display {
+  font-family: 'Autography', cursive;
+  font-weight: 400;
+}
+

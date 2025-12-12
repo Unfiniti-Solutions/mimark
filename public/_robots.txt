@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /account/
+Disallow: /order/
+Disallow: /auth/
+Disallow: /test-apis-v2
+
+Sitemap: https://www.mimarkestetica.com/sitemap.xml

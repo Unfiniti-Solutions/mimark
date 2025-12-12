@@ -1,0 +1,37 @@
+/* Swiper */
+.swiper-pagination-bullet {
+background: rgba(0, 0, 0, 0.5) !important;
+opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+background: #000 !important;
+}
+
+input{
+    background-color: #ffffff !important;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: black !important;
+}
+
+.swiper-button-prev:after, .swiper-button-next:after{
+  color: black !important;
+  font-size: 16px !important;
+}
+
+@media only screen and (min-width: 768px) {
+    .swiper-button-prev:after, .swiper-button-next:after{
+        font-size: 32px !important;
+      } 
+}
+
+/* Checkboxes de shadcn-vue con fondo blanco */
+[data-slot="checkbox"] {
+    background-color: #fff !important;
+}
+
+[data-slot="checkbox"][data-state="checked"] {
+    background-color: var(--primary) !important;
+}
